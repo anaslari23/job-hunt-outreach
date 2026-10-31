@@ -153,4 +153,4 @@ python3 scripts/verify_spreadsheet.py AI_Job_Outreach_Nov2026.xlsx
 
 ## License
 
-Add a license of your choice before sharing publicly (MIT is a common default).
+MIT. See [LICENSE](LICENSE).
